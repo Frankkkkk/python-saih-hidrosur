@@ -2,7 +2,7 @@ import setuptools
 
 
 setuptools.setup(name='saih-hidrosur',
-                 version='0.1',
+                 version='0.2.0',
                  description='Library around SAIH Hidrosur data',
                  long_description=open('README.md').read().strip(),
                  long_description_content_type="text/markdown",
